@@ -9,8 +9,8 @@
 \contentsline {section}{\numberline {3.1}最大クリーク問題}{4}
 \contentsline {section}{\numberline {3.2}最大2-plex問題}{5}
 \contentsline {section}{\numberline {3.3}最大$k$-plex問題}{7}
-\contentsline {chapter}{\numberline {第4章}まとめと今後の課題}{8}
-\contentsline {section}{\numberline {4.1}まとめ}{8}
-\contentsline {section}{\numberline {4.2}今後の課題}{8}
-\contentsline {chapter}{\numberline {}謝辞}{9}
-\contentsline {chapter}{\numberline {}参考文献}{10}
+\contentsline {chapter}{\numberline {第4章}まとめと今後の課題}{9}
+\contentsline {section}{\numberline {4.1}まとめ}{9}
+\contentsline {section}{\numberline {4.2}今後の課題}{9}
+\contentsline {chapter}{\numberline {}謝辞}{10}
+\contentsline {chapter}{\numberline {}参考文献}{11}
