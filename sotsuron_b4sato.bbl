@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{xiao2017fast}
+Mingyu Xiao, Weibo Lin, Yuanshun Dai, and Yifeng Zeng.
+\newblock A fast algorithm to compute maximum k-plexes in social network
+  analysis.
+\newblock In {\em AAAI}, pages 919--925, 2017.
+
+\bibitem{fomin2010exact}
+Fedor~V Fomin and Dieter Kratsch.
+\newblock {\em Exact exponential algorithms}.
+\newblock Springer Science \& Business Media, 2010.
+
+\end{thebibliography}
