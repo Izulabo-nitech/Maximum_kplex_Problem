@@ -1,6 +1,6 @@
 \documentclass{thesis}
 \bibliographystyle{unsrt}
-\input{jdummy.def} % フォント関連のエラー対策(らしい)
+\input{jdummy.def} 				% フォント関連のエラー対策(らしい)
 \usepackage[dvipdfmx]{graphicx}
 \usepackage{amsmath}			% math系
 \usepackage{amssymb}			% math系
@@ -10,8 +10,8 @@
 \usepackage{algorithm}			% アルゴリズム環境
 \usepackage{algorithmic}			% アルゴリズム環境
 \usepackage{comment}			% コメントアウト環境
-\usepackage{bm}	%太字形式のベクトル
-\usepackage{amsthm}%定理用?
+\usepackage{bm}					%太字形式のベクトル
+\usepackage{amsthm}			%定理用?
 %%% 泉先生がコメントをつける用 %%%
 \usepackage[normalem]{ulem}
 \usepackage{color}
@@ -67,11 +67,24 @@ $k$-plexが用いられる場合があり,$k$-plexはクリークの緩和モデ
 なっている.グラフ中の最も大きい$k$-plexを検出する問題を
 最大$k$-plex問題という.最大$k$-plex問題はNP完全であり,
 頂点数$n$に対して$n$の多項式時間で解くことができないことが知られている.
+この論文では最大$k$-plex問題を,辺の本数$m$に対して$n^{k }2^{O(\sqrt{m})}$アルゴリズムを提案する.
 
-現在,最大$k$-plex問題を$\sigma_{k}^{n}n^{O(1) }$ ($\sigma_{k} < 2$は$k$に
-関する値)で解くアルゴリズムがあることが知られている. \cite{xiao2017fast} 
-これは$2^{n}$という理論的限界を破った最初のアルゴリズムである.この論文では
-最大$k$-plex問題を,辺の本数$m$に対して$n^{k }2^{O(\sqrt{m})}$アルゴリズムを提案する.
+\section{関連研究}
+最大$k$-plex問題を解くためのアルゴリズムとして,以下のようなものが研究されている.
+\begin{itemize}
+ \item 最大$k$-plex問題を整数計画法で定式化してbranch-and-cutを
+	用いるアルゴリズムの研究 \cite{balasundaram2011clique}
+ \item グラフ彩色問題の概念を一般化して$k$-plexの基数の上限を導いて
+	それを利用した組み合わせアルゴリズムの研究 \cite{mcclosky2012combinatorial}
+ \item 最大$k$-plex問題と双対性を持つ$d$-BDD(Bounded-Degree-$d$ Vertex Detection)問題の
+	解を見つけるアルゴリズムの研究 \cite{moser2012exact}
+\end{itemize}
+上記の研究で提案されている最大$k$-plex問題を解くためのアルゴリズムは
+全て$2^{n}n^{O(1)}$時間で動く.
+
+また,複数のブランチングルールを持ったbranch-and-searchアルゴリズムによって
+最大$k$-plex問題を$\sigma_{k}^{n}n^{O(1) }$ ($\sigma_{k} < 2$は$k$に関する値)で解く
+アルゴリズムがある. \cite{xiao2017fast}  これは$2^{n}$という理論的限界を破った最初のアルゴリズムである.
 
 \section{本研究の成果}
 本研究では,,既存の$2^{O(\sqrt{m})}$時間の最大クリーク問題のアルゴリズムを

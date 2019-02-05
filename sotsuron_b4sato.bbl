@@ -1,5 +1,22 @@
 \begin{thebibliography}{1}
 
+\bibitem{balasundaram2011clique}
+Balabhaskar Balasundaram, Sergiy Butenko, and Illya~V Hicks.
+\newblock Clique relaxations in social network analysis: The maximum k-plex
+  problem.
+\newblock {\em Operations Research}, 59(1):133--142, 2011.
+
+\bibitem{mcclosky2012combinatorial}
+Benjamin McClosky and Illya~V Hicks.
+\newblock Combinatorial algorithms for the maximum k-plex problem.
+\newblock {\em Journal of combinatorial optimization}, 23(1):29--49, 2012.
+
+\bibitem{moser2012exact}
+Hannes Moser, Rolf Niedermeier, and Manuel Sorge.
+\newblock Exact combinatorial algorithms and experiments for finding maximum
+  k-plexes.
+\newblock {\em Journal of combinatorial optimization}, 24(3):347--373, 2012.
+
 \bibitem{xiao2017fast}
 Mingyu Xiao, Weibo Lin, Yuanshun Dai, and Yifeng Zeng.
 \newblock A fast algorithm to compute maximum k-plexes in social network
