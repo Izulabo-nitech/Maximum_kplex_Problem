@@ -1,5 +1,15 @@
 \begin{thebibliography}{1}
 
+\bibitem{chen2004clustering}
+Y~Chen, A~Liestman, and Jiangchuan Liu.
+\newblock Clustering algorithms for ad hoc wireless networks.
+\newblock {\em Ad Hoc and Sensor Networks}, 28:76, 2004.
+
+\bibitem{washio2003state}
+Takashi Washio and Hiroshi Motoda.
+\newblock State of the art of graph-based data mining.
+\newblock {\em Acm Sigkdd Explorations Newsletter}, 5(1):59--68, 2003.
+
 \bibitem{balasundaram2011clique}
 Balabhaskar Balasundaram, Sergiy Butenko, and Illya~V Hicks.
 \newblock Clique relaxations in social network analysis: The maximum k-plex
