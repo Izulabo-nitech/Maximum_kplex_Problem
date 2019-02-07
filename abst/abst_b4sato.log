@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.4.7)  7 FEB 2019 17:45
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.4.7)  7 FEB 2019 18:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,12 +220,12 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 
 ] (./abst_b4sato.aux) ) 
 Here is how much of TeX's memory you used:
- 2123 strings out of 493285
- 24626 string characters out of 6147058
- 96830 words of memory out of 5000000
- 6009 multiletter control sequences out of 15000+600000
+ 2125 strings out of 493285
+ 24663 string characters out of 6147058
+ 100830 words of memory out of 5000000
+ 6011 multiletter control sequences out of 15000+600000
  22047 words of font info for 85 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  27i,18n,27p,234b,392s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on abst_b4sato.dvi (1 page, 6060 bytes).
+Output written on abst_b4sato.dvi (1 page, 9748 bytes).

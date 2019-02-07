@@ -3,44 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: abst_b4sato.aux
 The style file: unsrt.bst
 Database file #1: b4sato.bib
-You've used 1 entry,
+You've used 3 entries,
             1791 wiz_defined-function locations,
-            450 strings with 3640 characters,
-and the built_in function-call counts, 184 in all, are:
-= -- 13
-> -- 8
+            465 strings with 3926 characters,
+and the built_in function-call counts, 596 in all, are:
+= -- 50
+> -- 27
 < -- 0
-+ -- 3
-- -- 2
-* -- 7
-:= -- 35
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 0
++ -- 10
+- -- 7
+* -- 37
+:= -- 104
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 10
-empty$ -- 20
-format.name$ -- 2
-if$ -- 40
+cite$ -- 3
+duplicate$ -- 28
+empty$ -- 60
+format.name$ -- 7
+if$ -- 129
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 2
-newline$ -- 8
-num.names$ -- 1
-pop$ -- 7
+int.to.str$ -- 3
+missing$ -- 4
+newline$ -- 18
+num.names$ -- 3
+pop$ -- 9
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 3
+skip$ -- 10
 stack$ -- 0
-substring$ -- 0
-swap$ -- 1
+substring$ -- 25
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 1
-width$ -- 2
-write$ -- 12
+while$ -- 6
+width$ -- 4
+write$ -- 34
