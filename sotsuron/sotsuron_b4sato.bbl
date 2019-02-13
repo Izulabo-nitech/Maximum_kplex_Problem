@@ -1,14 +1,14 @@
 \begin{thebibliography}{1}
 
-\bibitem{chen2004clustering}
-Y~Chen, A~Liestman, and Jiangchuan Liu.
-\newblock Clustering algorithms for ad hoc wireless networks.
-\newblock {\em Ad Hoc and Sensor Networks}, 28:76, 2004.
-
 \bibitem{washio2003state}
 Takashi Washio and Hiroshi Motoda.
 \newblock State of the art of graph-based data mining.
 \newblock {\em Acm Sigkdd Explorations Newsletter}, 5(1):59--68, 2003.
+
+\bibitem{fomin2010exact}
+Fedor~V Fomin and Dieter Kratsch.
+\newblock {\em Exact exponential algorithms}.
+\newblock Springer Science \& Business Media, 2010.
 
 \bibitem{balasundaram2011clique}
 Balabhaskar Balasundaram, Sergiy Butenko, and Illya~V Hicks.
@@ -32,10 +32,5 @@ Mingyu Xiao, Weibo Lin, Yuanshun Dai, and Yifeng Zeng.
 \newblock A fast algorithm to compute maximum k-plexes in social network
   analysis.
 \newblock In {\em AAAI}, pages 919--925, 2017.
-
-\bibitem{fomin2010exact}
-Fedor~V Fomin and Dieter Kratsch.
-\newblock {\em Exact exponential algorithms}.
-\newblock Springer Science \& Business Media, 2010.
 
 \end{thebibliography}
